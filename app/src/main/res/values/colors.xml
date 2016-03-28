@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorTabBg">#17abe3</color>
+    <color name="colorTabText">#ffffff</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="theme_500">#607D8B</color>
+    <color name="theme_100">#CFD8DC</color>
+    <color name="theme_700">#455A64</color>
+
+    <color name="accent_A100">#FF8A80</color>
+    <color name="accent_A200">#FF5252</color>
+    <color name="accent_A400">#FF1744</color>
+
+
+    <color name="uvv_gray">#969696</color>
+    <color name="uvv_black">#ff000000</color>
+    <color name="uvv_light_gray">#ffF0F0F0</color>
+    <color name="uvv_titlebar_bg">#7f000000</color>
+
+    <color name="uvv_green">#ff50b100</color>
+
+
+    <color name="light_gray">#c2c7cc</color>
+    <color name="dark_gray">#3d454c</color>
+    <color name="dark_gray_pressed">#373e44</color>
+    <color name="darker_gray">#1f2226</color>
+
+
+</resources>

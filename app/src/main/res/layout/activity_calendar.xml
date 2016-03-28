@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:layout_gravity="center"
+        android:background="@mipmap/icon_bar"
+        android:gravity="center_horizontal"
+        android:textSize="25sp"
+        android:text="Date"/>
+
+    <TextView
+        android:id="@+id/ind"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:gravity="center_horizontal"
+        android:textSize="25sp"/>
+
+
+    <com.lanou.tong.fun.tool.calendarviewtools.mcalendarview.mCalendarView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        tools:context=".MainActivity"
+        android:id="@+id/calendar" />
+
+    <ImageView
+        android:id="@+id/calendar_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:src="@mipmap/guide_point_gray"/>
+
+
+</LinearLayout>

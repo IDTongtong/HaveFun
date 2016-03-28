@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">开 Fun 啦!</string>
+
+    <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
+    <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
+    <string name="style_hint">style为数字</string>
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+
+    <string name="mine_login">立即登录</string>
+    <string name="mine_collect">我的收藏</string>
+    <string name="activity_collection_tab">收藏</string>
+    <string name="activity_guide_jump"><![CDATA[立即体验 >]]></string>
+    <string name="activity_history_tab">历史记录</string>
+    <string name="activity_login_text">请从下列登陆方式中选择一种</string>
+    <string name="activity_login_qq">QQ登陆</string>
+    <string name="activity_login_sina">微博登陆</string>
+    <string name="news_content_tab">详情</string>
+    <string name="read_content_tab">详情</string>
+    <string name="fragment_media_tab">视频</string>
+    <string name="mine_history">历史记录</string>
+    <string name="fragment_news_tab">热点</string>
+    <string name="fragment_read_tab">书吧</string>
+    <string name="fragment_topic_tab">问吧</string>
+    <string name="fragment_news_footview">努力加载中...</string>
+    <string name="tabs_media_test">视听</string>
+    <string name="tabs_news_text">新闻</string>
+    <string name="tabs_read_text">阅读</string>
+    <string name="tabs_topic_text">话题</string>
+
+    <style name="fragment_text">
+        <item name="android:textColor">#ffacacac</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_exp">ExpCalendarAct</string>
+
+</resources>
