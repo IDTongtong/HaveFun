@@ -6,7 +6,10 @@ import android.view.View;
 
 
 public abstract class BaseActivity extends AppCompatActivity {
-
+//a;ljd;lkajdkl;'ajop'd; kdfpo'akdfsopa pfajslfj
+//    kfrposkfdopkso[dfpkas'\;fgk'\as
+//    apojdfioajfpja;'fjk
+//    asld[aklfd[pksa[fkls[klf'askf;'asljfgp'sajfpasjfgl;asjpfgjkas['\dfas;'l\fgt
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
